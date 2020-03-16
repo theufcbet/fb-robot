@@ -1,0 +1,19 @@
+{
+  "name": "theufcbet-fb-robot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theufcbet/fb-robot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theufcbet/fb-robot/issues"
+  },
+  "homepage": "https://github.com/theufcbet/fb-robot#readme"
+}
